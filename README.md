@@ -1,27 +1,111 @@
-# 💫 About Me:
-👋 **Hello, world!**  <br><br>I'm **Muditha Sankalpa**, a passionate developer and problem solver with a knack for creating efficient and innovative solutions. I'm currently exploring various fields of computer science and specializing in **MERN stack development** to build dynamic and responsive web applications.  <br><br>📚 **Currently Working On:**  <br>- MERN stack projects to deliver full-stack solutions.  <br><br>💻 **Tech Stack:**  <br>Proficient in JavaScript, React, Node.js, Express, MongoDB, and more.  <br><br>🔗 **Connect with me:**  <br>- [GitHub Profile](https://github.com/Muditha-Sankalpa)  <br>- Open for collaborations and discussions!  
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Muditha%20Kandewatta&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muditha_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muditha-kandewatta-a86a17276/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Mudithasankalpa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MudithaHawk) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@muditha_s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muditha2003) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mudithasankalpa3989) 
+<a href="https://github.com/Muditha-Sankalpa">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+the+MERN+stack;React+%2B+Node.js+%2B+Express+%2B+MongoDB;Always+shipping%2C+always+learning;Open+for+collabs+%26+interesting+problems" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muditha-Sankalpa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muditha-Sankalpa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muditha-Sankalpa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muditha-Sankalpa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://www.linkedin.com/in/muditha-kandewatta-a86a17276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/muditha_____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Muditha2003"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://youtube.com/@mudithasankalpa3989"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://tiktok.com/@muditha_s"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://reddit.com/user/MudithaHawk"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<a href="https://pinterest.com/Mudithasankalpa"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muditha-Sankalpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/github/followers/Muditha-Sankalpa?style=for-the-badge&color=6D28D9&labelColor=1a1b27&logo=github" />
+<img src="https://visitcount.itsvg.in/api?id=Muditha-Sankalpa&icon=0&color=6" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Muditha-Sankalpa&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🧭 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+muditha_kandewatta:
+  role: "Full-Stack Developer"
+  focus: "MERN Stack (MongoDB · Express · React · Node.js)"
+  currently_building: "Dynamic, responsive full-stack web apps"
+  exploring: ["System Design", "Cloud Deployment", "DevOps"]
+  fun_fact: "Ships side projects faster than I document them 😅"
+  status: "Open to collaborations & discussions"
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,py&theme=dark" />
+
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,nodejs,express&theme=dark" />
+
+**Databases & Servers**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,apache&theme=dark" />
+
+**Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,photoshop,ps&theme=dark" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muditha-Sankalpa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&count_private=false" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muditha-Sankalpa&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muditha-Sankalpa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&langs_count=8" height="180"/>
+
+</div>
+
+## 🏆 Trophy Room
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Muditha-Sankalpa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</div>
+
+## 🔝 Most Active In
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Muditha-Sankalpa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</div>
+
+## ✍️ Quote of the Moment
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer"/>
+
+*Thanks for stopping by — let's build something great.* 🚀
+
+</div>
