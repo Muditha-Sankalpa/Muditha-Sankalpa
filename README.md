@@ -68,7 +68,7 @@ muditha_kandewatta:
 
 **Tools & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,photoshop,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,ps&theme=dark" />
 
 </div>
 
@@ -81,18 +81,6 @@ muditha_kandewatta:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muditha-Sankalpa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&langs_count=8" height="180"/>
 
-</div>
-
-## 🏆 Trophy Room
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muditha-Sankalpa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-
-## 🔝 Most Active In
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Muditha-Sankalpa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </div>
 
 ## ✍️ Quote of the Moment
